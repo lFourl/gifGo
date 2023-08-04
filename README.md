@@ -1,3 +1,8 @@
 # Go GIF generator
 
-Some simple code while I'm learning
+Generates a GIF on a Go Web Server
+
+Run the code below to use the program,
+```
+go run main.go &
+```
